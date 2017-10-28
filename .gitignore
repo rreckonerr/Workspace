@@ -104,5 +104,6 @@ ENV/
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+!/tango_with_django_project/db.sqlite3
 tango_with_django_project/media/
 tango_with_django_project/static/
